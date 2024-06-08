@@ -12,7 +12,6 @@ z-index: -1;
 position: fixed;
 inset:0;
 opacity: 1.0;
-background: -webkit-linear-gradient(to bottom, #fc354c, #0abfbc);
-background: linear-gradient(to bottom, #fc354c, #0abfbc);
+background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAD1JREFUKFNjZCACOKyY/5+RkDqQogMRiYx4FcIUgQwjaCLMRqwKkU3CqRCbIgyrcSlCUYhPEVwhIUUk+RoAGOMekcSo5xkAAAAASUVORK5CYII=) repeat;
 "]{}
 ```
